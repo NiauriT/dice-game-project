@@ -1,6 +1,6 @@
 # 🎲 Dice Game
 
-BY TORNIKE NIAURI 💙
+Made with 💙 by Tornike Niauri
 
 A fun and interactive 2-player dice game built using **HTML**, **CSS**, and **JavaScript**. Players take turns rolling a dice. First to reach the winning score wins!
 
@@ -32,6 +32,7 @@ A fun and interactive 2-player dice game built using **HTML**, **CSS**, and **Ja
 
 ## 📁 Project Structure
 
+```plaintext
 dice-game/
 ├── index.html
 ├── style.css
